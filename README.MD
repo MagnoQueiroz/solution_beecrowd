@@ -9,7 +9,7 @@ problems from <a href="https://www.beecrowd.com.br/judge/en">beecrowd</a> resolv
 
 <p>🔔🔔 this ideia is from my friend <a href="https://github.com/KayckMatias">Kayck</a> your <a href="https://github.com/KayckMatias/solve_beecrowd">repository</a> all credits for your job🧑‍💻.</p>
 
-## Directory Beginner
+## Directory Beginner:
 <br>
 <div align="center">
 
