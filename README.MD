@@ -1,13 +1,11 @@
 # BEECROWD: resolved issues
-[![LinkedIn][linkedin-shield]][linkedin-url]
+![PROJECT IN PROGRESS](http://img.shields.io/static/v1?label=STATUS&message=RESOLVED&color=ORANGE&style=flat-square&logo=status)
 
 problems from <a src="https://www.beecrowd.com.br/judge/en">beecrowd</a>  resolved
   
 all problems are in JS programming language
 
 ## Directory Beginner
-![PROJECT IN PROGRESS](http://img.shields.io/static/v1?label=STATUS&message=RESOLVED&color=ORANGE&style=flat-square&logo=status)
-
 <br>
 
 ![📁 1001](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1001.js) |
