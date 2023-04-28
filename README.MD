@@ -3,10 +3,11 @@
   <img src="http://img.shields.io/static/v1?label=STATUS&message=RESOLVED'S&color=ORANGE&style=flat-square&logo=status" />
 </div>
 
-problems from <a src="https://www.beecrowd.com.br/judge/en">beecrowd</a> resolved all problems are in JS programming language
+problems from <a href="https://www.beecrowd.com.br/judge/en">beecrowd</a> resolved all problems are in JS programming language
 
 ## Credits: 
-🔔🔔 this ideia is from my friend Kayck your <a src="https://github.com/KayckMatias/solve_beecrowd">repository</a> all credits for your job🧑‍💻.
+
+<p>🔔🔔 this ideia is from my friend <a href="https://github.com/KayckMatias">Kayck</a> your <a href="https://github.com/KayckMatias/solve_beecrowd">repository</a> all credits for your job🧑‍💻.</p>
 
 ## Directory Beginner
 <br>
