@@ -5,6 +5,8 @@ problems from <a src="https://www.beecrowd.com.br/judge/en">beecrowd</a>  resolv
   
 all problems are in JS programming language
 
+🔔🔔 this ideia is from my friend Kayck your <a src="https://github.com/KayckMatias/solve_beecrowd">repository</a> all credits for your job🧑‍💻.
+
 ## Directory Beginner
 <br>
 
@@ -14,3 +16,8 @@ all problems are in JS programming language
 [📁 1004](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1004.js) |
 [📁 1005](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1005.js) |
 [📁 1006](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1006.js) |
+[📁 1007](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1007.js) |
+[📁 1008](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1008.js) |
+[📁 1009](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1009.js) |
+[📁 1010](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1010.js) |
+
