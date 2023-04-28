@@ -1,5 +1,5 @@
 # BEECROWD: resolved issues
-[![LinkedIn][linkedin-shield]][linkedin-url] [![Forks][forks-shield]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 problems from <a src="https://www.beecrowd.com.br/judge/en">beecrowd</a>  resolved
   
