@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/100028251/235229473-7b3158f1-8399-44b5-8641-9e46ad71f323.png)
+
 # BEECROWD: resolved issues
 <div align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=RESOLVED'S&color=ORANGE&style=flat-square&logo=status" />
