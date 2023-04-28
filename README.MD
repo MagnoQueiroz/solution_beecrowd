@@ -1,14 +1,16 @@
 # BEECROWD: resolved issues
-![PROJECT IN PROGRESS](http://img.shields.io/static/v1?label=STATUS&message=RESOLVED&color=ORANGE&style=flat-square&logo=status)
+<div align="center">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=RESOLVED'S&color=ORANGE&style=flat-square&logo=status" />
+</div>
 
-problems from <a src="https://www.beecrowd.com.br/judge/en">beecrowd</a>  resolved
-  
-all problems are in JS programming language
+problems from <a src="https://www.beecrowd.com.br/judge/en">beecrowd</a> resolved all problems are in JS programming language
 
+## Credits: 
 🔔🔔 this ideia is from my friend Kayck your <a src="https://github.com/KayckMatias/solve_beecrowd">repository</a> all credits for your job🧑‍💻.
 
 ## Directory Beginner
 <br>
+<div align="center">
 
 [📁 1001](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1001.js) |
 [📁 1002](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1002.js) |
@@ -20,4 +22,5 @@ all problems are in JS programming language
 [📁 1008](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1008.js) |
 [📁 1009](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1009.js) |
 [📁 1010](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1010.js) |
+</div>
 
