@@ -15,6 +15,7 @@ problems from <a href="https://www.beecrowd.com.br/judge/en">beecrowd</a> resolv
 <br>
 <div align="center">
 
+[📁 1000](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1000.js) |
 [📁 1001](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1001.js) |
 [📁 1002](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1002.js) |
 [📁 1003](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1003.js) |
