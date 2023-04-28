@@ -1,9 +1,15 @@
-// módulos -> pastas/diretórios
-//serve para fazer requisição do modulo(fileSystem/fs) para que possamos ler o arquivo de texto stdin onde estão os valores para soma 
-var input = require("fs").readFileSync("/dev/stdin", "utf8"); //nome do arquivo e o tipo de encoder que no caso é o utf-8 e toda essa requisição e retorno leitura(conteúdo) fica armazenada na variável.
-// split método que será a string em grupo de sub string transformando ela em um vetor, serve para separa e pegar algo especifico
-var lines = input.split("\n"); // quebra esses valores a partir da quebra, ou seja tem um valor e apos ele a linha quebra? ja inicia outro índice.
+/** Disclaimers!!
+ *                                                                 módulos -> pastas/diretórios da biblioteca do node
+ * require é um método do node que serve para fazer requisição do modulo(fileSystem/fs) para que possamos ler o arquivo de texto stdin onde estão os valores para soma
+ * var input = require("fs").readFileSync("/dev/stdin", "utf8"); <- nome do arquivo e o tipo de encoder que no caso é o utf-8 e toda essa requisição e retorno leitura(conteúdo) fica armazenada na variável.
+ *
+ * split método que será a string em grupo de sub string transformando ela em um vetor, serve para separa e pegar algo especifico
+ *  var lines = input.split("\n"); <- quebra esses valores quando identificar uma quebra de linha, ou seja tem um valor e apos ele a linha quebra? ja inicia outro índice.
+ *
+ */
 
+var input = require("fs").readFileSync("/dev/stdin", "utf8");
+var lines = input.split("\n"); 
 //shit remove o primeiro item do vetor e adiciona na variável desejada
 let a = parseInt(lines.shift());
 let b = parseInt(lines.shift());
@@ -12,7 +18,9 @@ const x = a + b;
 
 console.log(`X = ${x}`);
 
-//se vc quiser se desafiar vc pode fazer da seguinte forma 
+/**segunda opção para a resolução desse problema**/
+
+//se vc quiser se desafiar vc pode fazer da seguinte forma
 
 /**
 var input = require("fs").readFileSync("/dev/stdin", "utf8");
