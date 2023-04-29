@@ -31,7 +31,7 @@ var lines = input.split("\n");
 
 * map serve para mapear todos os item do vetor, parseInt para transforma-los em Inteiros 
 
-let [z,y] = (line).map(item => parseInt(item));
+let [z,y] = (lines).map(item => parseInt(item));
 
 const q = z + y;
 
