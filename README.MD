@@ -28,6 +28,9 @@ problems from <a href="https://www.beecrowd.com.br/judge/en">beecrowd</a> resolv
 [📁 1010](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1010.js) |
 [📁 1011](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1011.js) |
 [📁 1012](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1012.js) |
+[📁 1013](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1013.js) |
+[📁 1014](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1014.js) |
+[📁 1015](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1015.js) |
 
 </div>
 
