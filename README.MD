@@ -15,22 +15,22 @@ problems from <a href="https://www.beecrowd.com.br/judge/en">beecrowd</a> resolv
 <br>
 <div align="center">
 
-[📁 1000](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1000.js) |
-[📁 1001](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1001.js) |
-[📁 1002](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1002.js) |
-[📁 1003](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1003.js) |
-[📁 1004](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1004.js) |
-[📁 1005](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1005.js) |
-[📁 1006](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1006.js) |
-[📁 1007](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1007.js) |
-[📁 1008](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1008.js) |
-[📁 1009](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1009.js) |
-[📁 1010](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1010.js) |
-[📁 1011](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1011.js) |
-[📁 1012](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1012.js) |
-[📁 1013](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1013.js) |
-[📁 1014](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1014.js) |
-[📁 1015](https://github.com/synxther/solution_beecrowd/blob/main/BEGINNER/1015.js) |
+[📁 1000](https://github.com/MagnoQueiroz/solution_beecrowd/blob/main/BEGINNER/1000.js) |
+[📁 1001](https://github.com/MagnoQueiroz/solution_beecrowd/blob/main/BEGINNER/1001.js) |
+[📁 1002](https://github.com/MagnoQueiroz/solution_beecrowd/blob/main/BEGINNER/1002.js) |
+[📁 1003](https://github.com/MagnoQueiroz/solution_beecrowd/blob/main/BEGINNER/1003.js) |
+[📁 1004](https://github.com/MagnoQueiroz/solution_beecrowd/blob/main/BEGINNER/1004.js) |
+[📁 1005](https://github.com/MagnoQueiroz/solution_beecrowd/blob/main/BEGINNER/1005.js) |
+[📁 1006](https://github.com/MagnoQueiroz/solution_beecrowd/blob/main/BEGINNER/1006.js) |
+[📁 1007](https://github.com/MagnoQueiroz/solution_beecrowd/blob/main/BEGINNER/1007.js) |
+[📁 1008](https://github.com/MagnoQueiroz/solution_beecrowd/blob/main/BEGINNER/1008.js) |
+[📁 1009](https://github.com/MagnoQueiroz/solution_beecrowd/blob/main/BEGINNER/1009.js) |
+[📁 1010](https://github.com/MagnoQueiroz/solution_beecrowd/blob/main/BEGINNER/1010.js) |
+[📁 1011](https://github.com/MagnoQueiroz/solution_beecrowd/blob/main/BEGINNER/1011.js) |
+[📁 1012](https://github.com/MagnoQueiroz/solution_beecrowd/blob/main/BEGINNER/1012.js) |
+[📁 1013](https://github.com/MagnoQueiroz/solution_beecrowd/blob/main/BEGINNER/1013.js) |
+[📁 1014](https://github.com/MagnoQueiroz/solution_beecrowd/blob/main/BEGINNER/1014.js) |
+[📁 1015](https://github.com/MagnoQueiroz/solution_beecrowd/blob/main/BEGINNER/1015.js) |
 
 </div>
 
